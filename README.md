@@ -1,0 +1,1 @@
+A multi-year fire modeling project using satellite-derived environmental and climatic data. Includes data preprocessing, descriptive analysis, and machine learning models (Random Forest) to predict Fire Radiative Power (FRP) in savannah landscapes. All data extraction and analysis were performed using Google Earth Engine, R, and Python.
